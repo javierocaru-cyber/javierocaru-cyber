@@ -65,7 +65,7 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |:--|:--|:--:|:--:|
-| 💱 **TipoCambio.pe** | App web que compara tasas de cambio de múltiples fuentes en tiempo real y recomienda la mejor opción para cambiar divisas | Selenium · NiceGUI · Regex | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/TipoCambio.pe) |
+| 💱 **TipoCambio.pe** | Aplicación que compara tipos de cambio de varias fuentes mediante API y web scraping, con una interfaz interactiva | Selenium · NiceGUI · Regex | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/TipoCambio.pe) |
 
 ### 🔤 Text Mining y NLP
 
