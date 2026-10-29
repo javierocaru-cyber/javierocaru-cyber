@@ -1,14 +1,4 @@
-# Hola, soy Javier Anthony 👋
-
-<div align="center">
-
-### Estudiante de Ingeniería Estadística e Informática · Datos · IA · Desarrollo web
-
-📊 Ciencia de Datos · 🤖 Inteligencia Artificial · 🔤 Text Mining · 🌐 Productos digitales
-
-</div>
-
----
+## Hola, soy Javier Anthony 👋
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="280" alt="Animación del perfil" />
 
@@ -87,6 +77,10 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 ---
 
 <div align="center">
+
+### Estudiante de Ingeniería Estadística e Informática · Datos · IA · Desarrollo web
+
+📊 Ciencia de Datos · 🤖 Inteligencia Artificial · 🔤 Text Mining · 🌐 Productos digitales
 
 *“Aprendiendo cada día para construir soluciones con datos y tecnología.”*
 
