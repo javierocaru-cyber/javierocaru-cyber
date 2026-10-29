@@ -59,7 +59,7 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 
 | Proyecto | Descripción | Enlace |
 |:--|:--|:--:|
-| 🛍️ **MoliMarket** | Vitrina de emprendimientos de la comunidad UNALM con búsqueda, categorías, fichas y catálogo de productos | [![Sitio web](https://img.shields.io/badge/Sitio_web-0A8F6A?style=flat-square&logo=googlechrome&logoColor=white)](https://molimarket.store/) |
+| 🛍️ **MoliMarket** | Vitrina de emprendimientos de la comunidad UNALM con búsqueda, categorías, fichas y catálogo de productos | [![Sitio web](https://img.shields.io/badge/Sitio_web-0A8F6A?style=flat-square&logo=googlechrome&logoColor=white)](https://molimarket.store/) · [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/javierocaru-cyber/MoliMarket-case-study) |
 
 ### 🕷️ Web Scraping y Aplicaciones Web
 
