@@ -68,6 +68,12 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 |:--|:--|:--:|:--:|
 | 🌎 **Perú vs. Latinoamérica con World Bank API** | Análisis económico comparativo de Perú y países de la región, con datos de 2015–2023 | Python · APIs · Pandas | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/worldbank-peru-latam-api) |
 
+### 🕷️ Web Scraping y Aplicaciones Web
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|:--|:--|:--:|:--:|
+| 💱 **TipoCambio.pe** | App web que compara tasas de cambio de múltiples fuentes en tiempo real y recomienda la mejor opción para cambiar divisas | Selenium · NiceGUI · Regex | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/TipoCambio.pe) |
+
 ### 🌐 Desarrollo Web
 
 | Proyecto | Descripción | Enlace |
