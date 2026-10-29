@@ -55,6 +55,18 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 
 ## 📂 Proyectos Destacados
 
+### 🌐 Desarrollo Web
+
+| Proyecto | Descripción | Enlace |
+|:--|:--|:--:|
+| 🛍️ **MoliMarket** | Vitrina de emprendimientos de la comunidad UNALM con búsqueda, categorías, fichas y catálogo de productos | [![Sitio web](https://img.shields.io/badge/Sitio_web-0A8F6A?style=flat-square&logo=googlechrome&logoColor=white)](https://molimarket.store/) |
+
+### 🕷️ Web Scraping y Aplicaciones Web
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|:--|:--|:--:|:--:|
+| 💱 **TipoCambio.pe** | App web que compara tasas de cambio de múltiples fuentes en tiempo real y recomienda la mejor opción para cambiar divisas | Selenium · NiceGUI · Regex | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/TipoCambio.pe) |
+
 ### 🔤 Text Mining y NLP
 
 | Proyecto | Descripción | Tecnologías | Enlace |
@@ -67,18 +79,6 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 | Proyecto | Descripción | Tecnologías | Enlace |
 |:--|:--|:--:|:--:|
 | 🌎 **Perú vs. Latinoamérica con World Bank API** | Análisis económico comparativo de Perú y países de la región, con datos de 2015–2023 | Python · APIs · Pandas | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/worldbank-peru-latam-api) |
-
-### 🕷️ Web Scraping y Aplicaciones Web
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-|:--|:--|:--:|:--:|
-| 💱 **TipoCambio.pe** | App web que compara tasas de cambio de múltiples fuentes en tiempo real y recomienda la mejor opción para cambiar divisas | Selenium · NiceGUI · Regex | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/TipoCambio.pe) |
-
-### 🌐 Desarrollo Web
-
-| Proyecto | Descripción | Enlace |
-|:--|:--|:--:|
-| 🛍️ **MoliMarket** | Vitrina de emprendimientos de la comunidad UNALM con búsqueda, categorías, fichas y catálogo de productos | [![Sitio web](https://img.shields.io/badge/Sitio_web-0A8F6A?style=flat-square&logo=googlechrome&logoColor=white)](https://molimarket.store/) |
 
 ---
 
