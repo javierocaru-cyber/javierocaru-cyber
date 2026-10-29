@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://avatars.githubusercontent.com/u/240243437?v=4" width="250" alt="Foto de perfil de Javier Anthony" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoMXN4dHBtaDVud3ZwZm50NjQwZnNwZjkxZ2NwZGQ5OWFheXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UqNkLM8DjJavqJZcH/giphy.gif" width="280" alt="Animación del perfil" />
 
 Soy estudiante de **Ingeniería Estadística e Informática** en la **Universidad Nacional Agraria La Molina (UNALM)**, Lima, Perú. Me gusta convertir datos e ideas en soluciones útiles, combinando análisis, tecnología y diseño de productos digitales.
 
