@@ -59,20 +59,20 @@ Actualmente trabajo y aprendo en proyectos de análisis de datos, inteligencia a
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |:--|:--|:--:|:--:|
-| 📊 **Plan de Gobierno del Nuevo Rector** | Análisis de minería de texto y sentimientos aplicado al plan de gestión de la UNALM 2026–2031 | R · tidytext | [Repositorio](https://github.com/JavierAnthonyUS/NLP-TextMining-PlanGobiernoDelNuevoRector-UNALM) |
-| 🚀 **Dashboard Compromiso Molinero** | Dashboard interactivo para explorar resultados de Text Mining | R · Shiny | [Demo](https://javieranthonyuracosilva.shinyapps.io/DashboardAnalisisCompromisoMolinero/) · [Repositorio](https://github.com/JavierAnthonyUS/Dashboard-TextMining-CompromisoMolinero) |
+| 📊 **Plan de Gobierno del Nuevo Rector** | Análisis de minería de texto y sentimientos aplicado al plan de gestión de la UNALM 2026–2031 | R · tidytext | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/NLP-TextMining-PlanGobiernoDelNuevoRector-UNALM) |
+| 🚀 **Dashboard Compromiso Molinero** | Dashboard interactivo para explorar resultados de Text Mining | R · Shiny | [![Demo](https://img.shields.io/badge/Demo-276DC3?style=flat-square&logo=r&logoColor=white)](https://javieranthonyuracosilva.shinyapps.io/DashboardAnalisisCompromisoMolinero/) · [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/Dashboard-TextMining-CompromisoMolinero) |
 
 ### 📊 Análisis de Datos y APIs
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |:--|:--|:--:|:--:|
-| 🌎 **Perú vs. Latinoamérica con World Bank API** | Análisis económico comparativo de Perú y países de la región, con datos de 2015–2023 | Python · APIs · Pandas | [Repositorio](https://github.com/JavierAnthonyUS/worldbank-peru-latam-api) |
+| 🌎 **Perú vs. Latinoamérica con World Bank API** | Análisis económico comparativo de Perú y países de la región, con datos de 2015–2023 | Python · APIs · Pandas | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JavierAnthonyUS/worldbank-peru-latam-api) |
 
 ### 🌐 Desarrollo Web
 
 | Proyecto | Descripción | Enlace |
 |:--|:--|:--:|
-| 🛍️ **MoliMarket** | Vitrina de emprendimientos de la comunidad UNALM con búsqueda, categorías, fichas y catálogo de productos | [Visitar sitio](https://molimarket.store/) |
+| 🛍️ **MoliMarket** | Vitrina de emprendimientos de la comunidad UNALM con búsqueda, categorías, fichas y catálogo de productos | [![Sitio web](https://img.shields.io/badge/Sitio_web-0A8F6A?style=flat-square&logo=googlechrome&logoColor=white)](https://molimarket.store/) |
 
 ---
 
